@@ -1,0 +1,22 @@
+[
+  {"id_pedido": 101, "id_juego": 1, "cliente": "Juan Pérez", "cantidad": 1},
+  {"id_pedido": 102, "id_juego": 2, "cliente": "Maria Lopez", "cantidad": 3},
+  {"id_pedido": 103, "id_juego": 3, "cliente": "Andrés Gómez", "cantidad": 2},
+  {"id_pedido": 104, "id_juego": 4, "cliente": "Laura García", "cantidad": 1},
+  {"id_pedido": 105, "id_juego": 5, "cliente": "Carlos Ruiz", "cantidad": 5},
+  {"id_pedido": 106, "id_juego": 6, "cliente": "Ana Torres", "cantidad": 2},
+  {"id_pedido": 107, "id_juego": 7, "cliente": "Pedro López", "cantidad": 3},
+  {"id_pedido": 108, "id_juego": 8, "cliente": "Marta Díaz", "cantidad": 1},
+  {"id_pedido": 109, "id_juego": 9, "cliente": "Sofía Martínez", "cantidad": 4},
+  {"id_pedido": 110, "id_juego": 10, "cliente": "Luis Fernández", "cantidad": 2},
+  {"id_pedido": 111, "id_juego": 11, "cliente": "Gabriel Sánchez", "cantidad": 1},
+  {"id_pedido": 112, "id_juego": 12, "cliente": "Elena Morales", "cantidad": 3},
+  {"id_pedido": 113, "id_juego": 13, "cliente": "Diego Herrera", "cantidad": 2},
+  {"id_pedido": 114, "id_juego": 14, "cliente": "Valeria Castro", "cantidad": 1},
+  {"id_pedido": 115, "id_juego": 15, "cliente": "Andrés Gómez", "cantidad": 5},
+  {"id_pedido": 116, "id_juego": 16, "cliente": "Laura García", "cantidad": 2},
+  {"id_pedido": 117, "id_juego": 17, "cliente": "Juan Pérez", "cantidad": 3},
+  {"id_pedido": 118, "id_juego": 18, "cliente": "Maria Lopez", "cantidad": 1},
+  {"id_pedido": 119, "id_juego": 19, "cliente": "Carlos Ruiz", "cantidad": 4},
+  {"id_pedido": 120, "id_juego": 20, "cliente": "Ana Torres", "cantidad": 2}
+]

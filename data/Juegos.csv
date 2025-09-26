@@ -1,0 +1,21 @@
+id_juego,nombre,categoria,precio
+1, CyberQuest ,Acción,$59.99
+2, Dragon Realms,Aventura,$49.99
+3,,Estrategia,$39.99
+4,Starfighter ,Acción,$69.99
+5,Pixel Run,Plataforma,$29.99
+6,Mystic Lands,Aventura,$59.99
+7,Castle Siege,Estrategia,$44.99
+8,Shadow Hunt ,Acción,$54.99
+9,Alien Invasion,Ciencia Ficción,$64.99
+10,Fantasy Quest ,Aventura,$39.99
+11,Speed Racer,Carreras,$29.99
+12,Warzone 3,Acción,$59.99
+13,Island Adventure,Aventura,$49.99
+14,Galaxy Conqueror,Ciencia Ficción,$74.99
+15,Block Builder,Plataforma,$19.99
+16,Ninja Run,Acción,$39.99
+17,Kingdom Defender,Estrategia,$44.99
+18,Hero’s Journey,Aventura,$59.99
+19,Space Odyssey ,Ciencia Ficción,$69.99
+20,Puzzle Mania,Rompecabezas,$24.99
