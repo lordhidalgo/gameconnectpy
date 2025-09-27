@@ -106,4 +106,4 @@ Este proyecto se gestiona siguiendo el modelo de Git Flow:
 
 ## ✍️ Autor
 
-Proyecto desarrollado por **[Mario Hidalgo]** como parte del **Momento 2 – Data Analytics**.
+Proyecto desarrollado por **[luis mario arcila hidalgo, michel arango marulanda, jesus alberto osuna, alex yeison cardenas]** como parte del **Momento 2 – Data Analytics**.
