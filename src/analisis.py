@@ -7,13 +7,13 @@ from preprocess import (
     clean_price_column,
 )
 
-# Función para imprimir títulos con estilo
+# imprimir títulos
 def print_title(title):
     print("\n" + "="*len(title))
     print(title)
     print("="*len(title) + "\n")
 
-# Función para imprimir resultados destacados
+# imprimir resultados destacados
 def print_result(label, value, emoji=""):
     print(f"{emoji} {label}: {value}")
 
